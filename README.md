@@ -28,20 +28,27 @@
 <br>
 
 ## 🧪 Tecnologias
-
+<br>
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [ReactJS](https://reactjs.org/)
 - [Styled Components](https://styled-components.com/)
 - [Framer Motion](https://framer.com/motion/)
 
-## 🚀 Getting started
+<br>
 
-Clone o projeto e acesse a pasta.
+## 🚀 Getting started
+<br>
+
+Clone o projeto e acesse a pasta.<br>
 
 ```bash
-git clone
-cd
+git clone https://github.com/WellersonDouglas/space-y-clone.git
+cd space-y-clone
+```
+Abrir direto no Vscode(Caso utilize o mesmo)
+```bash
+<C:\User\pasta-onde-salvou\space-y-clone> code .
 ```
 
 Execute este comando para instalar as dependências.
@@ -50,8 +57,10 @@ Execute este comando para instalar as dependências.
 npm install ou npm i
 npm run dev
 ```
+<br>
 
 ## 🔖 Layout
+<br>
 
 Você pode visualizar o projeto através dos links abaixo:
 
@@ -61,11 +70,12 @@ Você pode visualizar o projeto através dos links abaixo:
 
 Lembrando que você precisa ter uma conta [Figma](http://figma.com/) para acessá-la..
 
-
+<br>
 
 ## 📝 License
 
 Este projeto é licenciado sob a Licença do MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+<br>
 
 ---
 
