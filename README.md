@@ -53,19 +53,20 @@ npm run dev
 
 ## 🔖 Layout
 
-You can view the project through the links below:
+Você pode visualizar o projeto através dos links abaixo:
 
 - [Live Preview](#)
 
 - [Figma](https://www.figma.com/community/file/986447430009792279/duplicate)
 
-Remembering that you need to have a [Figma](http://figma.com/) account to access it.
+Lembrando que você precisa ter uma conta [Figma](http://figma.com/) para acessá-la..
+
+
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Este projeto é licenciado sob a Licença do MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
 ---
 
 Made with 💜 by [Wellerson Douglas]() 👋
-Footer
